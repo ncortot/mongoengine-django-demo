@@ -1,4 +1,5 @@
 *.log
 *.pot
 *.pyc
+django.db
 local_settings.py

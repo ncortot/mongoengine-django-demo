@@ -1,0 +1,3 @@
+[submodule "vendor/mongoengine"]
+	path = vendor/mongoengine
+	url = git@github.com:ncortot/mongoengine.git
